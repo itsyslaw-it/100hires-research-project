@@ -59,11 +59,12 @@
 - Why selected: Works directly with SaaS companies building outbound engines and sharing real case insights
 - Recent content date: 2026
 
-## 9. Lou Petrossi
-- Platform: LinkedIn
-- Link: https://www.linkedin.com/in/loupetrossi/
-- Focus: Outbound sales development systems
-- Why selected: Built outbound programs for multiple SaaS startups and leads InsideScale, helping companies scale pipeline :contentReference[oaicite:0]{index=0}
+## 9. Jeremy Miner
+- Platform: LinkedIn / YouTube
+- Link: https://www.linkedin.com/in/jeremyleeminer/
+- Focus: Sales psychology, cold calling, objection handling
+- Why selected: Founder of 7th Level and creator of NEPQ (Neuro-Emotional Persuasion Questioning), with 17+ years of real sales experience and multiple 7-figure earnings in commission-based sales 
+- Note: Lou Petrossi was replaced because his LinkedIn activity is private and not reliably accessible for public-source research.
 - Recent content date: 2026
 
 ## 10. Will Allred
