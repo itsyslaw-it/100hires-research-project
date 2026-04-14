@@ -39,7 +39,8 @@
 
 ## 6. Becc Holland
 - Platform: LinkedIn / YouTube
-- Link: https://www.linkedin.com/in/beccaholland/
+- Link: https://www.linkedin.com/in/beccholland-flipthescript/
+- Url video: https://www.youtube.com/watch?v=minPll66uek
 - Focus: Sales development, outbound experimentation
 - Why selected: CEO of Flip the Script, known for testing and improving outbound strategies in real teams
 - Recent content date: 2026
