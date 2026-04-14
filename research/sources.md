@@ -62,9 +62,9 @@
 ## 9. Jeremy Miner
 - Platform: LinkedIn / YouTube
 - Link: https://www.linkedin.com/in/jeremyleeminer/
+- Url video: https://www.youtube.com/watch?v=IMuUU0PiW6M
 - Focus: Sales psychology, cold calling, objection handling
 - Why selected: Founder of 7th Level and creator of NEPQ (Neuro-Emotional Persuasion Questioning), with 17+ years of real sales experience and multiple 7-figure earnings in commission-based sales 
-- Note: Lou Petrossi was replaced because his LinkedIn activity is private and not reliably accessible for public-source research.
 - Recent content date: 2026
 
 ## 10. Will Allred
