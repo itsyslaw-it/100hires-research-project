@@ -18,7 +18,7 @@
 
 ## 3. Morgan J Ingram
 - Platform: LinkedIn / YouTube
-- Link: https://www.linkedin.com/in/morganjingram/
+- Link: https://www.linkedin.com/in/morganjingramamp/
 - Focus: Sales execution, outbound frameworks
 - Why selected: Former SDR leader, trains real sales teams and shares tactical outbound strategies
 - Recent content date: 2026
@@ -32,7 +32,7 @@
 
 ## 5. Kyle Coleman
 - Platform: LinkedIn
-- Link: https://www.linkedin.com/in/kylecoleman1/
+- Link: https://www.linkedin.com/in/kyletcoleman/
 - Focus: Revenue growth, outbound systems
 - Why selected: Former CRO at Clari, builds real outbound systems for SaaS companies
 - Recent content date: 2026
