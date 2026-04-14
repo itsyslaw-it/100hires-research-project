@@ -70,6 +70,7 @@
 ## 10. Will Allred
 - Platform: LinkedIn / YouTube
 - Link: https://www.linkedin.com/in/williamallred/
+- Url video: https://www.youtube.com/watch?v=sVURh0OkNzM
 - Focus: Cold email deliverability and outbound systems
 - Why selected: Co-founder of Lavender, actively works on improving real outbound email performance and shares data-driven insights
 - Recent content date: 2026
