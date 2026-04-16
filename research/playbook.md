@@ -57,3 +57,18 @@ While the tooling and process improvements are impressive, I reject blindly scal
 - Heavy personalized messsaging that references minor personal details (Becc Holland’s deep insight-driven personalization).
 
 I rejected making this the default approach. In most cases it feels forced, is hard to scale, increases execution complexity, and can trigger spam filters. It works well for very high-value, low-volume deals, but not for consistent team execution. (Source: Becc Holland, YouTube “The 2025 Outbound Playbook”, 24 July 2025; Alex Berman, LinkedIn March 2025)
+
+## 6. Who I Would NOT Recommend Following and Why
+
+Out of all the experts I studied, there are two I wouldn’t recommend as your main mentors:
+
+### 1. Kyle Coleman (High-Volume Activity Focus)
+His numbers look great on paper, but I wouldn’t follow this approach as the main strategy. Prioritizing “more calls” before fixing messaging and qualification is risky and can create a lot of low-quality or “fake” pipeline. In my current role as a B2B salesman, I tried pushing high-volume outreach, and it ended up being exhausting with only minor results. Quality and proper qualification should come first.
+
+### 2. Becc Holland (Extreme Deep Personalization)
+Her thinking is very smart and buyer-focused, but it’s too time-consuming and difficult to scale for most teams. Relying heavily on this approach often leads to low output and messages that can feel forced or overly crafted.
+
+---
+
+### Note
+The wisest approach is to balance both methods, combine smart, efficient volume with clear messaging and just the right amount of personalization. Going all-in on either extreme usually creates more problems than it solves. I still respect both of them and believe they offer valuable insights in the right situations. However, they are not the most practical default frameworks for early-stage or mid-sized outbound teams.
