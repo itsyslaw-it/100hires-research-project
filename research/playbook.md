@@ -52,6 +52,8 @@ I side with Alex Berman. While Becc Holland’s approach can be powerful in high
 After reviewing the experts, I decided against two popular ideas:
 
 - Pure high-volume cold calling without strong qualification (Kyle Coleman’s infrastructure driven activity lift from 35 → 150 calls/day).
+
 While the tooling and process improvements are impressive, I reject blindly scaling activity before fixing messaging and qualification. As Nick Abraham showed, high activity without proper qualification creates fake pipeline and high no-show rates. (Source: Kyle Coleman, LinkedIn 2026; Nick Abraham, LinkedIn 2026)
 - Heavy personalized messsaging that references minor personal details (Becc Holland’s deep insight-driven personalization).
+
 I rejected making this the default approach. In most cases it feels forced, is hard to scale, increases execution complexity, and can trigger spam filters. It works well for very high-value, low-volume deals, but not for consistent team execution. (Source: Becc Holland, YouTube “The 2025 Outbound Playbook”, 24 July 2025; Alex Berman, LinkedIn March 2025)
