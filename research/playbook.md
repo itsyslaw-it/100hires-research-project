@@ -69,6 +69,7 @@ In my current role, I used to do very generic and basic outreach, just simple te
 
 ### Real Example
 1. **What i used to send (Cold Email With Minimal Insight)**
+
 Dear Mr. Nico,
 
 Allow me to introduce myself. My name is Aji from EasyGo Indonesia.
@@ -79,6 +80,7 @@ For your reference, I have attached our official meeting request letter.
 We would greatly appreciate the opportunity to schedule a brief meeting at a time that is convenient for you and your leadership team.
 
 2. **How It Should be (Linkedin or Cold Email)**
+
 Hi Mr. Nico,  
 
 I saw that your team recently posted for a new Logistics Manager. Looks like you’re scaling the operations.  
