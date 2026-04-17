@@ -58,6 +58,50 @@ While the tooling and process improvements are impressive, I reject blindly scal
 
 I rejected making this the default approach. In most cases it feels forced, is hard to scale, increases execution complexity, and can trigger spam filters. It works well for very high-value, low-volume deals, but not for consistent team execution. (Source: Becc Holland, YouTube “The 2025 Outbound Playbook”, 24 July 2025; Alex Berman, LinkedIn March 2025)
 
+## 4. My Original Idea
+### Hybrid “Signal + Insight” Opener Formula
+- In my current role, I used to do very generic and basic outreach, just simple templates with minimal research. It got some replies, but nothing impressive. Through all the research I did for this playbook (reading dozens of posts and watching expert videos), I finally understood where I was going wrong. I realized I could combine the best parts of different experts’ ideas without copying any of them completely. So I created this simple 3-step formula that I now use every day:
+
+### How it Works (Step by Step)
+1. **Use a signal only for timing** — I check for any recent trigger (new job post, expansion news, funding, etc.), but I never make the signal the main point of the message.
+2. **Add one specific business insight** — I include one short, useful observation or hidden problem that the prospect is likely facing in their industry/role.
+3. **End with a low-pressure, curiosity question** — Keep it easy and natural to reply to.
+
+### What i used to send (Cold Email With Minimal Insight)
+- Dear Mr. Nico,
+
+Allow me to introduce myself. My name is Aji from EasyGo Indonesia.
+I am writing to kindly request a short audience to introduce our Transportation Management System (TMS) solutions and explore potential collaboration opportunities with PT Mowilex.
+
+For your reference, I have attached our official meeting request letter.
+
+We would greatly appreciate the opportunity to schedule a brief meeting at a time that is convenient for you and your leadership team.
+
+### How It Should be (Linkedin or Cold Email)
+- Hi Mr. Nico,  
+
+Saw that your team recently posted for a new Logistics Manager, timing looks like you’re scaling operations.  
+
+Most logistics companies I talk to at your stage start running into route inefficiencies and rising detention fees once they pass 40–50 trucks. We’ve seen this create 12–18% extra cost that most TMS platforms miss.  
+
+Quick question — how are you currently tracking and optimizing detention and dwell time across your fleet?”
+
+- This formula hopefully get reply rates because it feels human, relevant, and valuable  without being overly salesy or creepy. I haven’t seen any expert recommend this exact combination, which is why I call it my original idea. It’s simple enough to use daily but specific enough to stand out from generic outreach.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 6. Who I Would NOT Recommend Following and Why
 
 Out of all the experts I studied, there are two I wouldn’t recommend as your main mentors:
