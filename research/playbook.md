@@ -88,19 +88,13 @@ Quick question — how are you currently tracking and optimizing detention and d
 
 - This formula hopefully get reply rates because it feels human, relevant, and valuable  without being overly salesy or creepy. I haven’t seen any expert recommend this exact combination, which is why I call it my original idea. It’s simple enough to use daily but specific enough to stand out from generic outreach.
 
+## 5. Weaknesses of This Playbook
 
-
-
-
-
-
-
-
-
-
-
-
-
+- **Untested at extreme scale**: The recommendations favor quality over maximum volume. Teams that need hundreds of meetings per month may find the pace too slow.
+- **Depends on seller skill**: Writing insight-driven messages requires stronger research and writing ability. Junior reps may struggle.
+- **Industry bias**: Optimized for B2B SaaS with moderate deal sizes. It may not translate well to very high-ticket enterprise sales
+- **Focus is mainly on initial response rates**: long-term nurture sequences need more testing.
+- **Assumes access to decent signals and buyer data**: Relies on having decent signals and buyer research. In markets with poor data quality, results will suffer.
 
 ## 6. Who I Would NOT Recommend Following and Why
 
