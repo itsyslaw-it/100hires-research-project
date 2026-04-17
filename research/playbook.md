@@ -48,7 +48,7 @@ I side with Florin Tatulea. Nick is right that strong signals improve timing, bu
 My decision:  
 I side with Alex Berman. While Becc Holland’s approach can be powerful in highly targeted, high value deals, Alex’s framework is more practical and scalable for most outbound teams. His “one-to-one, to many” method reduces execution complexity, avoids forced personalization, and allows teams to maintain both consistency and volume while still staying relevant. This is also what I do to reach potential client in my current role as a B2B salesman, but unique insight and high value outreach is also important.
 
-## 3. What I rejected and Why
+## 3. What I Rejected and Why
 After reviewing the experts, I decided against two popular ideas:
 
 - Pure high-volume cold calling without strong qualification (Kyle Coleman’s infrastructure driven activity lift from 35 → 150 calls/day).
@@ -60,15 +60,15 @@ I rejected making this the default approach. In most cases it feels forced, is h
 
 ## 4. My Original Idea
 ### Hybrid “Signal + Insight” Opener Formula
-- In my current role, I used to do very generic and basic outreach, just simple templates with minimal research. It got some replies, but nothing impressive. Through all the research I did for this playbook (reading dozens of posts and watching expert videos), I finally understood where I was going wrong. I realized I could combine the best parts of different experts’ ideas without copying any of them completely. So I created this simple 3-step formula that I now use every day:
+In my current role, I used to do very generic and basic outreach, just simple templates with minimal research. It got some replies, but nothing impressive. Through all the research I did for this playbook (reading dozens of posts and watching expert videos), I finally understood where I was going wrong. I realized I could combine the best parts of different experts’ ideas without copying any of them completely. So I created this simple 3-step formula that I now use every day:
 
 ### How it Works (Step by Step)
 1. **Use a signal only for timing** — I check for any recent trigger (new job post, expansion news, funding, etc.), but I never make the signal the main point of the message.
 2. **Add one specific business insight** — I include one short, useful observation or hidden problem that the prospect is likely facing in their industry/role.
 3. **End with a low-pressure, curiosity question** — Keep it easy and natural to reply to.
 
-### What i used to send (Cold Email With Minimal Insight)
-- Dear Mr. Nico,
+#### 1. What i used to send (Cold Email With Minimal Insight)
+Dear Mr. Nico,
 
 Allow me to introduce myself. My name is Aji from EasyGo Indonesia.
 I am writing to kindly request a short audience to introduce our Transportation Management System (TMS) solutions and explore potential collaboration opportunities with PT Mowilex.
@@ -77,8 +77,8 @@ For your reference, I have attached our official meeting request letter.
 
 We would greatly appreciate the opportunity to schedule a brief meeting at a time that is convenient for you and your leadership team.
 
-### How It Should be (Linkedin or Cold Email)
-- Hi Mr. Nico,  
+#### 2. How It Should be (Linkedin or Cold Email)
+Hi Mr. Nico,  
 
 I saw that your team recently posted for a new Logistics Manager. Looks like you’re scaling the operations.  
 
