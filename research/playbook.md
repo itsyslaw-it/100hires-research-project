@@ -80,7 +80,7 @@ We would greatly appreciate the opportunity to schedule a brief meeting at a tim
 ### How It Should be (Linkedin or Cold Email)
 - Hi Mr. Nico,  
 
-Saw that your team recently posted for a new Logistics Manager, Looks like you’re scaling operations.  
+I saw that your team recently posted for a new Logistics Manager. Looks like you’re scaling the operations.  
 
 Most logistics companies I talk to at your stage start running into route inefficiencies and rising detention fees once they pass 40–50 trucks. We’ve seen this create 12–18% extra cost that most TMS platforms miss.  
 
